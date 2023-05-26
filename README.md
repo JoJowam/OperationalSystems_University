@@ -44,7 +44,7 @@ ___
 ___
 ___
 
-# "Atualização - Forks and Threads"
+# "Atualização - [Forks and Threads](./ForksAndThreads)"
 
 Nesta seção, exploraremos o uso de forks e threads para criar processos e realizar operações concorrentes em sistemas operacionais.
 
